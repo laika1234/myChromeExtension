@@ -1,0 +1,13 @@
+ {   
+    "Scenarios":[
+        {
+            "id":1,
+            "scenario":"Multi tenant Azure AD user management",
+            "ScenarioDescription":""
+        },
+        {
+            "id":2,
+            "scenario":"set MaxInactiveTime in Azure is not working",
+            "ScenarioDescription":""
+        }]
+}
